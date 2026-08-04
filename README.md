@@ -4,6 +4,9 @@
 
 Agent Genome is a browser-native interactive exhibit that makes evolutionary AI visible. Forty luminous digital organisms explore a minimal field. Each carries a genome that shapes its strategy; live resource collection, hazard avoidance, cooperation, and exploration produce fitness; then successful strategies are selected, crossed over, and mutated into a new cohort.
 
+<img width="996" height="720" alt="agent-genome" src="https://github.com/user-attachments/assets/62bad64b-977f-4ea4-b5ca-56ec1bce54b7" />
+
+
 ## What you can explore
 
 - Observe 40 organisms moving through resources and hazards.
