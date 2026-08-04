@@ -1,0 +1,39 @@
+# Dependencies and build artefacts
+node_modules/
+.next/
+out/
+dist/
+build/
+.turbo/
+
+# Tests and runtime diagnostics
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+*.log
+logs/
+*.pid
+*.pid.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.vercel/
+
+# OS, editors, and TypeScript cache
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.tsbuildinfo
+
+docs/

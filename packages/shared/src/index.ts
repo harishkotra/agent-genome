@@ -1,0 +1,1 @@
+export const POPULATION_SIZE=40; export const GENERATION_SECONDS=45;
